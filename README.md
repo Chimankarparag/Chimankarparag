@@ -1,4 +1,3 @@
-[![@typhonshambo's Holopin board](https://holopin.me/typhonshambo)](https://holopin.io/@typhonshambo)
 
 # <h1 align="center"> ABOUT ME </h1>
 
@@ -6,7 +5,7 @@
   <a><img src="https://readme-typing-svg.herokuapp.com/?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python"></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shambo Chowdhury</h1>
+<h1 align="center">Hella fellows </h1>
 <h3 align="center">“Bring qualities in yourself, Skill up like anything!”</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
@@ -65,7 +64,6 @@ and tryout new things!
 
    
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C6LBB9T)
 
 
 ## Socials
@@ -73,7 +71,7 @@ and tryout new things!
 
 <p align="center">
   
-  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/typhonshambo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/typhon.shambo/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' height='40'>](https://twitter.com/typhon_shambo)
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/chimankarparag)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/chimankarparag/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' height='40'>](https://twitter.com/chimankarparag)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.svgrepo.com/show/353655/discord-icon.svg' alt='discord' height='40'>](https://discord.gg/m5mSyTV7RR)
    
 </p>
