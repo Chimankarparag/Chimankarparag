@@ -37,10 +37,13 @@ and learning new stuff
  <table>
 
 ## Projects
-<p>
 
-< yet to be filled >
-  
+<p align="center">
+  <a href="https://chimankarparag.itch.io/soul-magician" target="_blank">
+    <img src="https://img.itch.zone/aW1nLzEzMzQxNzEyLnBuZw==/original/XL09QD.png" alt="Soul Magician" height="200">
+  </a>
+  <br>
+  <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A puzzle-action game on Itch.io</a></strong>
 </p>
 
 
