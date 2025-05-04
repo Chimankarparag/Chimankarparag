@@ -39,24 +39,25 @@ and learning new stuff
 
 ## Projects
 
-<p align="left">
-  <a href="https://chimankarparag.itch.io/soul-magician">
-    <img width="400" src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician">
-  </a>
-  <a href="https://github.com/Chimankarparag/IFSS">
-    <img width="400" src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS">
-  </a>
-</p>
 
-<p>
-  <a href="https://chimankarparag.itch.io/soul-magician"><b>Soul Magician</b></a><br>
-  A 2D topdown RPG game
-</p>
-<p>
-  <a href="https://github.com/Chimankarparag/IFSS"><b>IFSS</b></a><br>
-  ITR Filing Suggestion Software
-</p>
-
+ <p align="left">
+ <div display="flex">
+ <p>
+   <a href="https://chimankarparag.itch.io/" target="_blank">
+     <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200" width="400">
+   </a>
+   <br>
+   <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
+ </p>
+   <br>
+ <p align="right">
+ <p>
+   <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
+     <img src="https://github.com/Chimankarparag/IFSS/blob/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200" width="400">
+   </a>
+   <br>
+   <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
+ </p>
 
 
 ## Socials
