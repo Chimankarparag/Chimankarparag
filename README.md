@@ -65,7 +65,16 @@ and learning new stuff
 
 <p align="center">
   
-  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/chimankarparag)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/chimankarparag/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' height='40'>](https://twitter.com/chimankarparag)
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/chimankarparag)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/chimankarparag/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- X (formerly Twitter) -->
+<a target="_blank" href="https://twitter.com/chimankarparag">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" height="40">
+</a>
+
+<!-- LinkedIn -->
+<a target="_blank" href="https://linkedin.com/in/chimankarparag">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">
+</a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.svgrepo.com/show/353655/discord-icon.svg' alt='discord' height='40'>](https://discordapp.com/users/856096761683902504)
    
 </p>
