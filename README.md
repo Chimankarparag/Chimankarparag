@@ -39,9 +39,10 @@ and learning new stuff
 
 ## Projects
 
-| [![Soul Magician](https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png)](https://chimankarparag.itch.io/soul-magician) | [![IFSS](https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif)](https://github.com/Chimankarparag/IFSS) |
-|:---:|:---:|
-| **[Soul Magician](https://chimankarparag.itch.io/soul-magician)**<br/>A 2D topdown RPG game | **[IFSS](https://github.com/Chimankarparag/IFSS)**<br/>ITR Filing Suggestion Software |
+[![Soul Magician](https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png)](https://chimankarparag.itch.io/soul-magician)
+[![IFSS](https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif)](https://github.com/Chimankarparag/IFSS)
+
+
 
 ## Socials
    
