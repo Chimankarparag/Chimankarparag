@@ -45,6 +45,13 @@ and learning new stuff
   <br>
   <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
 </p>
+<p align="center">
+  <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS.gif" alt="IFSS" height="200">
+  </a>
+  <br>
+  <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
+</p>
 
 ## Socials
    
