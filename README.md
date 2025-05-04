@@ -56,39 +56,17 @@ and learning new stuff
  
 ## Donation
 
+
+## Socials
    
-
-## Socials
-
-## Socials
-
 <p align="center">
   
-  <a href="https://github.com/chimankarparag" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/chimankarparag/" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://twitter.com/chimankarparag" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="x" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://discordapp.com/users/856096761683902504" target="_blank">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/chimankarparag" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40">
-  </a>
-
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/chimankarparag)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/chimankarparag/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn-icons-png.flaticon.com/512/5968/5968835.png' alt='x' height='40'>](https://twitter.com/chimankarparag)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.svgrepo.com/show/353655/discord-icon.svg' alt='discord' height='40'>](https://discordapp.com/users/856096761683902504)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://linkedin.com/in/chimankarparag)
+   
 </p>
+
 
 
 
