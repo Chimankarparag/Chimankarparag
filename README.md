@@ -2,30 +2,24 @@
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com/?color=3DF7E2&size=30&center=true&lines=Pursuing+Computer+science;Game+Developer;Learning+Python"></a>
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=3DF7E2&size=30&center=true&width=500&lines=Pursuing+Computer+science;Game+Developer;Learning+Python">
+  </a>
 </p>
 
 <h1 align="center">Hajimemashite </h1>
-<h3 align="center">“Bring qualities in yourself, Skill up like anything!”</h3>
+<h3 align="center">“Its all about selling yourself as the best”</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 
-🌱 I am a 19 y/o amateur programmer, </br>
-who loves to write some lines of code, </br>
-and tryout new things!
+🌱 I am a 20 y/o amateur programmer, </br>
+interested in developing game mechanics, </br>
+and learning new stuff
 
 
 ### I am currently learning
-- MLOps
-- Data-Science
-
-### Popular Frameworks/Modules I've Used
-- ML/DataScience toolkits like numpy, pandas, matplotlib, scikit learn etc
-- Discord.py
-- Pyrogram
-- Database toolkits like Asyncpg, MongoDB
-- Scrapping tools like BeautifulSoup
-  
+- Python coded functionalities integrated in unity game
+- Data Structures and algorithms
 
 
 
