@@ -41,11 +41,20 @@ and learning new stuff
 
 <p align="left">
   <a href="https://chimankarparag.itch.io/soul-magician">
-    <img width="300" src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician">
+    <img width="400" src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician">
   </a>
   <a href="https://github.com/Chimankarparag/IFSS">
-    <img width="300" src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS">
+    <img width="400" src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS">
   </a>
+</p>
+
+<p>
+  <a href="https://chimankarparag.itch.io/soul-magician"><b>Soul Magician</b></a><br>
+  A 2D topdown RPG game
+</p>
+<p>
+  <a href="https://github.com/Chimankarparag/IFSS"><b>IFSS</b></a><br>
+  ITR Filing Suggestion Software
 </p>
 
 
