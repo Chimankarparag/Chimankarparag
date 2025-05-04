@@ -40,12 +40,11 @@ and learning new stuff
 
 <p align="center">
   <a href="https://chimankarparag.itch.io/soul-magician" target="_blank">
-    <img src="https://img.itch.zone/aW1nLzEzMzQxNzEyLnBuZw==/original/XL09QD.png" alt="Soul Magician" height="200">
+    <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200">
   </a>
   <br>
-  <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A puzzle-action game on Itch.io</a></strong>
+  <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game on Itch.io</a></strong>
 </p>
-
 
 ## Socials
    
