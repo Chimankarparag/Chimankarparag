@@ -70,12 +70,12 @@ and learning new stuff
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/chimankarparag/" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="Instagram" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/chimankarparag" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" height="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="X" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -89,6 +89,7 @@ and learning new stuff
   </a>
 
 </p>
+
 
 
 
