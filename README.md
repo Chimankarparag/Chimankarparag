@@ -37,21 +37,22 @@ and learning new stuff
  <table>
 
 ## Projects
-
-<p align="center">
+<div display="flex">
+<p>
   <a href="https://chimankarparag.itch.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200">
   </a>
   <br>
   <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
     <img src="https://github.com/Chimankarparag/IFSS/blob/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200">
   </a>
   <br>
   <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
 </p>
+</div>
 
 ## Socials
    
