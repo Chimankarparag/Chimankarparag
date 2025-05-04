@@ -2,10 +2,10 @@
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com/?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com/?color=3DF7E2&size=30&center=true&lines=Pursuing+Computer+science;Game+Developer;Learning+Python"></a>
 </p>
 
-<h1 align="center">Hella fellows </h1>
+<h1 align="center">Hajimemashite </h1>
 <h3 align="center">“Bring qualities in yourself, Skill up like anything!”</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
