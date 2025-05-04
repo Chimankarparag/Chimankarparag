@@ -39,14 +39,15 @@ and learning new stuff
 
 ## Projects
 
-<p align="center">
-  <a href="https://chimankarparag.itch.io/soul-magician" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" width="40%" style="border-radius:5px; margin-right:5%;">
+<p align="left">
+  <a href="https://chimankarparag.itch.io/soul-magician">
+    <img width="300" src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician">
   </a>
-  <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" width="40%" style="border-radius:5px;">
+  <a href="https://github.com/Chimankarparag/IFSS">
+    <img width="300" src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS">
   </a>
 </p>
+
 
 
 ## Socials
