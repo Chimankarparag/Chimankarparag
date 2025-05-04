@@ -39,20 +39,25 @@ and learning new stuff
 
 ## Projects
 
-<p align="center">
-  <a href="https://chimankarparag.itch.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200" style="margin-right: 20px;">
-  </a>
-  <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200">
-  </a>
-</p>
-
-<p align="center">
-  <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <!-- Project 1 -->
+  <div style="text-align: center; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <a href="https://chimankarparag.itch.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" style="max-width: 100%; height: 200px; object-fit: cover; border-radius: 5px;">
+    </a>
+    <h3 style="margin: 15px 0 5px;"><a href="https://chimankarparag.itch.io/soul-magician" target="_blank" style="text-decoration: none; color: #333;">Soul Magician</a></h3>
+    <p>A 2D topdown RPG game</p>
+  </div>
+  
+  <!-- Project 2 -->
+  <div style="text-align: center; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
+      <img src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS" style="max-width: 100%; height: 200px; object-fit: cover; border-radius: 5px;">
+    </a>
+    <h3 style="margin: 15px 0 5px;"><a href="https://github.com/Chimankarparag/IFSS" target="_blank" style="text-decoration: none; color: #333;">IFSS</a></h3>
+    <p>ITR Filing Suggestion Software</p>
+  </div>
+</div>
 
 ## Socials
    
