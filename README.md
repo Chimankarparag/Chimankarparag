@@ -60,35 +60,35 @@ and learning new stuff
 
 ## Socials
 
-<h2 align="center">Socials</h2>
+## Socials
 
 <p align="center">
+  
   <a href="https://github.com/chimankarparag" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" height="40">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/chimankarparag/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40">
+    <img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" height="40">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/chimankarparag" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="X" height="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="x" height="40">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://discordapp.com/users/856096761683902504" target="_blank">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="40">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/chimankarparag" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40">
   </a>
+
 </p>
-
-
 
 
 
