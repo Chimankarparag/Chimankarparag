@@ -58,12 +58,11 @@ and learning new stuff
 
    
 
-
-
 ## Socials
 
-<p align="center">
+<h2 align="center">Socials</h2>
 
+<p align="center">
   <a href="https://github.com/chimankarparag" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" height="40">
   </a>
@@ -87,8 +86,8 @@ and learning new stuff
   <a href="https://linkedin.com/in/chimankarparag" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">
   </a>
-
 </p>
+
 
 
 
