@@ -37,8 +37,11 @@ and learning new stuff
  <table>
 
 ## Projects
- 
-## Donation
+<p>
+
+< yet to be filled >
+  
+</p>
 
 
 ## Socials
