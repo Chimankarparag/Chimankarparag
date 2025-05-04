@@ -36,23 +36,23 @@ and learning new stuff
   </tr>
  <table>
 
+
 ## Projects
-<div display="flex">
-<p>
+
+<p align="center">
   <a href="https://chimankarparag.itch.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200">
+    <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200" style="margin-right: 20px;">
   </a>
-  <br>
-  <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
-</p>
-<p>
   <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
-    <img src="https://github.com/Chimankarparag/IFSS/blob/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200">
+    <img src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200">
   </a>
-  <br>
+</p>
+
+<p align="center">
+  <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
 </p>
-</div>
 
 ## Socials
    
