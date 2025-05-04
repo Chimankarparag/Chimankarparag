@@ -47,7 +47,7 @@ and learning new stuff
 </p>
 <p align="center">
   <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chimankarparag/IFSS/main/IFSS.gif" alt="IFSS" height="200">
+    <img src="https://github.com/Chimankarparag/IFSS/blob/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200">
   </a>
   <br>
   <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
