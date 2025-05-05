@@ -16,28 +16,25 @@
 interested in developing game mechanics, </br>
 and learning new stuff
 
-
-### I am currently learning
-- Python coded functionalities integrated in unity game
-- Data Structures and algorithms
+### 🛠️ Actively Leveling Up
+- <img src="https://img.icons8.com/ios-filled/20/4a90e2/unity.png" width="20"/> **Unity-Python Synergy**: Bridging gameplay logic with Python-powered utilities
+- Mastering Data Structures and Algorithms
+### 📜 Get my Resume
+[![Resume Sanctum](https://img.shields.io/badge/📜_Decrypt_My_Codex-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/Chimankarparag/resume/blob/main/resume_Parag_Apr2025.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left">
   
-  [<img src='https://cdn.worldvectorlogo.com/logos/arduino-1.svg' alt='arduino' height='40'>](https://www.arduino.cc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' alt='c' height='40'>](https://www.cprogramming.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='cplusplus' height='40'>](https://www.w3schools.com/cpp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp' height='40'>](https://www.w3schools.com/cs/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='css3' height='40'>](https://www.w3schools.com/css/)
-  
-  [<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='git' height='40'>](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'>](https://www.w3.org/html/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='linux' height='40'>](https://www.linux.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' height='40'>](https://www.mongodb.com/)
-  
-  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt='mysql' height='40'>](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' height='40'>](https://nodejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40'>](https://www.python.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='react' height='40'>](https://reactjs.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://reactnative.dev/img/header_logo.svg' alt='reactnative' height='40'>](https://reactnative.dev/)
-  
-  [<img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' height='40'>](https://tailwindcss.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='typescript' height='40'>](https://www.typescriptlang.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' alt='unity' height='40'>](https://unity.com/)
+  [<img src='https://cdn.worldvectorlogo.com/logos/arduino-1.svg' alt='arduino' height='40'>](https://www.arduino.cc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' alt='c' height='40'>](https://www.cprogramming.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='cplusplus' height='40'>](https://www.w3schools.com/cpp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp' height='40'>](https://www.w3schools.com/cs/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='css3' height='40'>](https://www.w3schools.com/css/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='git' height='40'>](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'>](https://www.w3.org/html/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='linux' height='40'>](https://www.linux.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' height='40'>](https://www.mongodb.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt='mysql' height='40'>](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' height='40'>](https://nodejs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40'>](https://www.python.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='react' height='40'>](https://reactjs.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://reactnative.dev/img/header_logo.svg' alt='reactnative' height='40'>](https://reactnative.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' height='40'>](https://tailwindcss.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='typescript' height='40'>](https://www.typescriptlang.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' alt='unity' height='40'>](https://unity.com/)
    
 </p>
 
 ## 📊Profile Stats
 
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Chimankarparag&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 <table width="100%" align="center">
   <tr>
     <td>
@@ -69,6 +66,11 @@ and learning new stuff
    <br>
    <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
  </p>
+
+## Donations
+<a href="https://www.buymeacoffee.com/chimankarparag" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 145px;">
+</a>
 
 
 ## Socials
