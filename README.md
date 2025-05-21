@@ -66,6 +66,14 @@ and learning new stuff
    <br>
    <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
  </p>
+  <p align="right">
+ <p>
+   <a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">
+     <img src="https://github.com/Chimankarparag/NPC_chatbot/blob/main/ExplantionAndImages/NPC2.png" alt="NPC_talk" height="200" width="400">
+   </a>
+   <br>
+   <strong><a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">NPC_chatbot in Unity </a></strong>
+ </p>
 
 ## Donations
 <a href="https://www.buymeacoffee.com/chimankarparag" target="_blank">
