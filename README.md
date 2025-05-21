@@ -46,34 +46,36 @@ and learning new stuff
 
 
 ## Projects
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://chimankarparag.itch.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
+        <img src="https://github.com/Chimankarparag/IFSS/blob/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">
+        <img src="https://github.com/Chimankarparag/NPC_chatbot/blob/main/ExplantionAndImages/NPC2.png" alt="NPC_talk" height="200" width="50%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">NPC_chatbot in Unity</a></strong>
+    </td>
+  </tr>
+</table>
 
 
- <p align="left">
- <div display="flex">
- <p>
-   <a href="https://chimankarparag.itch.io/" target="_blank">
-     <img src="https://raw.githubusercontent.com/Chimankarparag/Images/main/soulmagician.png" alt="Soul Magician" height="200" width="400">
-   </a>
-   <br>
-   <strong><a href="https://chimankarparag.itch.io/soul-magician" target="_blank">Soul Magician – A 2D topdown RPG game</a></strong>
- </p>
-   <br>
- <p align="right">
- <p>
-   <a href="https://github.com/Chimankarparag/IFSS" target="_blank">
-     <img src="https://github.com/Chimankarparag/IFSS/blob/main/IFSS_project_images/IFSS.gif" alt="IFSS" height="200" width="400">
-   </a>
-   <br>
-   <strong><a href="https://github.com/Chimankarparag/IFSS" target="_blank">IFSS - ITR Filing Suggestion Software</a></strong>
- </p>
-  <p align="right">
- <p>
-   <a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">
-     <img src="https://github.com/Chimankarparag/NPC_chatbot/blob/main/ExplantionAndImages/NPC2.png" alt="NPC_talk" height="200" width="400">
-   </a>
-   <br>
-   <strong><a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">NPC_chatbot in Unity </a></strong>
- </p>
+
 
 ## Donations
 <a href="https://www.buymeacoffee.com/chimankarparag" target="_blank">
