@@ -33,19 +33,14 @@ and learning new stuff
 ## 📊Profile Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Chimankarparag&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chimankarparag&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimankarparag&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chimankarparag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-<table width="100%" align="center">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chimankarparag&show_icons=true&theme=dark" /> </td>
-<td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimankarparag&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
-  
-  </tr>
- <table>
 
 
 ## Projects
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -73,6 +68,7 @@ and learning new stuff
     </td>
   </tr>
 </table>
+</div>
 
 
 
