@@ -59,12 +59,19 @@ and learning new stuff
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">
-        <img src="https://github.com/Chimankarparag/NPC_chatbot/blob/main/ExplantionAndImages/NPC2.png" alt="NPC_talk" height="200" width="50%">
+        <img src="https://github.com/Chimankarparag/NPC_chatbot/blob/main/ExplantionAndImages/NPC2.png" alt="NPC_talk" height="200" width="100%">
       </a>
       <br>
       <strong><a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">NPC_chatbot in Unity</a></strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Chimankarparag/Audio_Music_Unity" target="_blank">
+        <img src="https://github.com/Chimankarparag/Images/blob/main/MusicVisualiser3D.png" alt="3D visualiser" height="200" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">Music Visualiser in Unity</a></strong>
     </td>
   </tr>
 </table>
