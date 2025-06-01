@@ -71,7 +71,7 @@ and learning new stuff
         <img src="https://github.com/Chimankarparag/Images/blob/main/MusicVisualiser3D.png" alt="3D visualiser" height="200" width="100%">
       </a>
       <br>
-      <strong><a href="https://github.com/Chimankarparag/NPC_chatbot" target="_blank">Music Visualiser in Unity</a></strong>
+      <strong><a href="https://github.com/Chimankarparag/Audio_Music_Unity" target="_blank">Music Visualiser in Unity</a></strong>
     </td>
   </tr>
 </table>
